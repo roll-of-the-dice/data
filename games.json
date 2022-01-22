@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "001",
+    "name" : "Scattergorries",
+    "image" : "",
+    "age" : 10,
+    "categorries" : ["word", "family", "classic"],
+    "complexity" : 2,
+    "popularity" : 90,
+    "players" : [2, 3, 4, 5, 6, 7, 8],
+    "price" : 20,
+    "time" : 15
+  }
+]
